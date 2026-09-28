@@ -1,0 +1,9 @@
+[submodule "Asteroids"]
+	path = Asteroids
+	url = https://github.com/Sora8155/asteroids.git
+[submodule "BookBot"]
+	path = BookBot
+	url = https://github.com/Sora8155/bookbot.git
+[submodule "webflyx"]
+	path = webflyx
+	url = https://github.com/Sora8155/webflyx.git
